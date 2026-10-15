@@ -1,0 +1,995 @@
+{
+  "knowledge_base": [
+    {
+      "id": "ai_ml-01",
+      "topic": "ai_ml",
+      "topic_label": "Artificial Intelligence & Machine Learning",
+      "title": "Artificial Intelligence & Machine Learning",
+      "keywords": [
+        "ai",
+        "artificial intelligence",
+        "deep learning",
+        "generative ai",
+        "machine learning",
+        "ml",
+        "neural network"
+      ],
+      "responses": [
+        "Artificial intelligence (AI) is the broad field of building systems that perform tasks associated with human intelligence. Machine learning is a branch of AI in which models learn patterns from data to make predictions or decisions.",
+        "Machine learning is one way to build AI: a model is trained on examples, then uses the patterns it learned to handle new inputs. Deep learning is a subset that uses multi-layer neural networks."
+      ],
+      "source": {
+        "title": "IBM: Artificial intelligence",
+        "url": "https://www.ibm.com/think/topics/artificial-intelligence"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "python-02",
+      "topic": "python",
+      "topic_label": "Python",
+      "title": "Python",
+      "keywords": [
+        "dictionary",
+        "function",
+        "list",
+        "loop",
+        "programming",
+        "python",
+        "python programming",
+        "variable"
+      ],
+      "responses": [
+        "Python is a readable, general-purpose programming language used in automation, web development, data analysis, and AI. Start with variables, strings, numbers, conditionals, loops, functions, and collections such as lists and dictionaries.",
+        "A good way to learn Python is to write small programs and build up gradually. Functions package reusable logic, while lists and dictionaries help organize related data."
+      ],
+      "source": {
+        "title": "Python: The Python Tutorial",
+        "url": "https://docs.python.org/3/tutorial/"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "iot-03",
+      "topic": "iot",
+      "topic_label": "Internet of Things",
+      "title": "Internet of Things",
+      "keywords": [
+        "actuator",
+        "edge computing",
+        "internet of things",
+        "iot",
+        "sensor",
+        "sensors"
+      ],
+      "responses": [
+        "The Internet of Things (IoT) connects physical devices that collect or exchange data. A sensor measures something in the environment, a network carries its data, and software can analyze it or trigger an action.",
+        "An IoT system commonly combines sensors, connected devices, communication networks, data processing, and an application. Security and privacy should be considered throughout the design."
+      ],
+      "source": {
+        "title": "IBM: Internet of Things",
+        "url": "https://www.ibm.com/think/topics/internet-of-things"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "cloud-04",
+      "topic": "cloud",
+      "topic_label": "Cloud Computing",
+      "title": "Cloud Computing",
+      "keywords": [
+        "cloud",
+        "cloud computing",
+        "cloud storage",
+        "iaas",
+        "paas",
+        "saas",
+        "virtual machine"
+      ],
+      "responses": [
+        "Cloud computing provides computing resources—such as servers, storage, databases, and software—over a network on demand. IaaS offers infrastructure, PaaS provides a managed application platform, and SaaS delivers ready-to-use software.",
+        "The cloud lets organizations provision shared computing resources without owning every physical server. Common benefits include flexible scaling and usage-based pricing; availability, security, and cost still need active management."
+      ],
+      "source": {
+        "title": "IBM: Cloud computing",
+        "url": "https://www.ibm.com/think/topics/cloud-computing"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "data_science-05",
+      "topic": "data_science",
+      "topic_label": "Data Science",
+      "title": "Data Science",
+      "keywords": [
+        "data",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "dataset",
+        "pandas",
+        "statistics"
+      ],
+      "responses": [
+        "Data science uses programming, statistics, and subject knowledge to turn data into useful insights. A typical workflow is to define a question, collect and clean data, explore it, analyze or model it, and communicate the results.",
+        "Data analysis starts by asking a clear question and checking data quality. Visualization can reveal patterns, while statistical methods help assess whether an apparent pattern is meaningful."
+      ],
+      "source": {
+        "title": "IBM: Data science",
+        "url": "https://www.ibm.com/think/topics/data-science"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "cybersecurity-06",
+      "topic": "cybersecurity",
+      "topic_label": "Cybersecurity",
+      "title": "Cybersecurity",
+      "keywords": [
+        "authentication",
+        "cybersecurity",
+        "encryption",
+        "malware",
+        "password",
+        "phishing",
+        "privacy",
+        "security"
+      ],
+      "responses": [
+        "Cybersecurity protects systems, networks, and information from unauthorized access or disruption. Useful foundations include strong unique passwords, multi-factor authentication, software updates, careful handling of links, and regular backups.",
+        "A useful security model considers confidentiality, integrity, and availability. Reduce risk with layered protections such as access controls, encryption, updates, monitoring, and user awareness."
+      ],
+      "source": {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "networking-07",
+      "topic": "networking",
+      "topic_label": "Networking",
+      "title": "Networking",
+      "keywords": [
+        "dns",
+        "internet",
+        "ip address",
+        "network",
+        "networking",
+        "protocol",
+        "router",
+        "tcp"
+      ],
+      "responses": [
+        "Computer networking connects devices so they can exchange data. Protocols define how communication works; for example, IP addresses help route traffic, DNS maps domain names to addresses, and TCP provides reliable data delivery.",
+        "A network is a group of connected devices and the rules they use to communicate. Routers forward traffic between networks, while switches connect devices within a local network."
+      ],
+      "source": {
+        "title": "Cisco Networking Academy",
+        "url": "https://www.netacad.com/"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "programming-08",
+      "topic": "programming",
+      "topic_label": "Programming Foundations",
+      "title": "Programming Foundations",
+      "keywords": [
+        "algorithm",
+        "steps",
+        "what is an algorithm"
+      ],
+      "responses": [
+        "An algorithm is a finite, ordered set of steps for solving a problem or completing a task. A recipe is a familiar everyday example."
+      ],
+      "source": {
+        "title": "MDN: Learn web development",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "python-09",
+      "topic": "python",
+      "topic_label": "Python",
+      "title": "Python",
+      "keywords": [
+        "store value",
+        "variable",
+        "variables"
+      ],
+      "responses": [
+        "A variable is a named reference to a value that a program can use or change. In Python, for example, `score = 10` assigns the value 10 to score."
+      ],
+      "source": {
+        "title": "Python: The Python Tutorial",
+        "url": "https://docs.python.org/3/tutorial/"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "python-10",
+      "topic": "python",
+      "topic_label": "Python",
+      "title": "Python",
+      "keywords": [
+        "boolean",
+        "data type",
+        "float",
+        "integer",
+        "string"
+      ],
+      "responses": [
+        "A data type describes what kind of value a program is using. Common Python types include integers, floating-point numbers, strings, and Booleans."
+      ],
+      "source": {
+        "title": "Python: The Python Tutorial",
+        "url": "https://docs.python.org/3/tutorial/"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "python-11",
+      "topic": "python",
+      "topic_label": "Python",
+      "title": "Python",
+      "keywords": [
+        "conditional",
+        "if else",
+        "if statement"
+      ],
+      "responses": [
+        "A conditional lets a program choose which instructions to run based on a test. Python uses `if`, `elif`, and `else` for these decisions."
+      ],
+      "source": {
+        "title": "Python: The Python Tutorial",
+        "url": "https://docs.python.org/3/tutorial/"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "python-12",
+      "topic": "python",
+      "topic_label": "Python",
+      "title": "Python",
+      "keywords": [
+        "for loop",
+        "iteration",
+        "while loop"
+      ],
+      "responses": [
+        "A loop repeats instructions. A `for` loop commonly processes items in a collection, while a `while` loop repeats as long as its condition remains true."
+      ],
+      "source": {
+        "title": "Python: The Python Tutorial",
+        "url": "https://docs.python.org/3/tutorial/"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "python-13",
+      "topic": "python",
+      "topic_label": "Python",
+      "title": "Python",
+      "keywords": [
+        "function",
+        "functions",
+        "parameter",
+        "return value"
+      ],
+      "responses": [
+        "A function is a reusable block of code that can accept inputs (parameters) and optionally return a result. Functions help organize programs into manageable pieces."
+      ],
+      "source": {
+        "title": "Python: The Python Tutorial",
+        "url": "https://docs.python.org/3/tutorial/"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "python-14",
+      "topic": "python",
+      "topic_label": "Python",
+      "title": "Python",
+      "keywords": [
+        "list",
+        "python list"
+      ],
+      "responses": [
+        "A Python list is an ordered, changeable collection, written with square brackets, such as `[1, 2, 3]`. Lists can hold multiple values."
+      ],
+      "source": {
+        "title": "Python: The Python Tutorial",
+        "url": "https://docs.python.org/3/tutorial/"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "python-15",
+      "topic": "python",
+      "topic_label": "Python",
+      "title": "Python",
+      "keywords": [
+        "dictionary",
+        "key value",
+        "python dictionary"
+      ],
+      "responses": [
+        "A Python dictionary stores values under unique keys, for example `{'name': 'Asha'}`. It is useful when each value has a meaningful label."
+      ],
+      "source": {
+        "title": "Python: The Python Tutorial",
+        "url": "https://docs.python.org/3/tutorial/"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "programming-16",
+      "topic": "programming",
+      "topic_label": "Programming Foundations",
+      "title": "Programming Foundations",
+      "keywords": [
+        "bug",
+        "debug",
+        "debugging"
+      ],
+      "responses": [
+        "Debugging is the process of finding and fixing problems in a program. Reproduce the issue, read error messages, inspect relevant values, and change one thing at a time."
+      ],
+      "source": {
+        "title": "MDN: Learn web development",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "programming-17",
+      "topic": "programming",
+      "topic_label": "Programming Foundations",
+      "title": "Programming Foundations",
+      "keywords": [
+        "commit",
+        "git",
+        "repository",
+        "version control"
+      ],
+      "responses": [
+        "Version control records changes to files over time. Git is a widely used tool that lets people review history, create branches, and collaborate on code."
+      ],
+      "source": {
+        "title": "MDN: Learn web development",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "programming-18",
+      "topic": "programming",
+      "topic_label": "Programming Foundations",
+      "title": "Programming Foundations",
+      "keywords": [
+        "api",
+        "application programming interface"
+      ],
+      "responses": [
+        "An API is a defined way for software components to communicate. A web API often lets one application request or update data through HTTP."
+      ],
+      "source": {
+        "title": "MDN: Learn web development",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "programming-19",
+      "topic": "programming",
+      "topic_label": "Programming Foundations",
+      "title": "Programming Foundations",
+      "keywords": [
+        "database",
+        "query",
+        "sql",
+        "table"
+      ],
+      "responses": [
+        "A database stores and organizes information so it can be retrieved or updated. Relational databases use tables, and SQL is a common language for working with them."
+      ],
+      "source": {
+        "title": "MDN: Learn web development",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "programming-20",
+      "topic": "programming",
+      "topic_label": "Programming Foundations",
+      "title": "Programming Foundations",
+      "keywords": [
+        "linux",
+        "macos",
+        "operating system",
+        "windows"
+      ],
+      "responses": [
+        "An operating system manages a computer's hardware and provides services for applications. Windows, macOS, and Linux are examples."
+      ],
+      "source": {
+        "title": "MDN: Learn web development",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "programming-21",
+      "topic": "programming",
+      "topic_label": "Programming Foundations",
+      "title": "Programming Foundations",
+      "keywords": [
+        "css",
+        "html",
+        "javascript",
+        "web development"
+      ],
+      "responses": [
+        "Web development builds websites and web applications. HTML structures content, CSS styles it, and JavaScript adds interactive behavior in the browser."
+      ],
+      "source": {
+        "title": "MDN: Learn web development",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "ai_ml-22",
+      "topic": "ai_ml",
+      "topic_label": "Artificial Intelligence & Machine Learning",
+      "title": "Artificial Intelligence & Machine Learning",
+      "keywords": [
+        "machine learning",
+        "model",
+        "training data"
+      ],
+      "responses": [
+        "In machine learning, a model learns patterns from examples called training data. Its performance should be checked on data it did not train on."
+      ],
+      "source": {
+        "title": "IBM: Artificial intelligence",
+        "url": "https://www.ibm.com/think/topics/artificial-intelligence"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "ai_ml-23",
+      "topic": "ai_ml",
+      "topic_label": "Artificial Intelligence & Machine Learning",
+      "title": "Artificial Intelligence & Machine Learning",
+      "keywords": [
+        "labeled data",
+        "supervised learning"
+      ],
+      "responses": [
+        "Supervised learning trains a model using examples that include the correct target answer, such as labeled images. The model learns to predict targets for new inputs."
+      ],
+      "source": {
+        "title": "IBM: Artificial intelligence",
+        "url": "https://www.ibm.com/think/topics/artificial-intelligence"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "ai_ml-24",
+      "topic": "ai_ml",
+      "topic_label": "Artificial Intelligence & Machine Learning",
+      "title": "Artificial Intelligence & Machine Learning",
+      "keywords": [
+        "clustering",
+        "unlabeled data",
+        "unsupervised learning"
+      ],
+      "responses": [
+        "Unsupervised learning looks for structure in data without supplied target labels. Clustering is one example: it groups similar data points."
+      ],
+      "source": {
+        "title": "IBM: Artificial intelligence",
+        "url": "https://www.ibm.com/think/topics/artificial-intelligence"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "cloud-25",
+      "topic": "cloud",
+      "topic_label": "Cloud Computing",
+      "title": "Cloud Computing",
+      "keywords": [
+        "cloud saas",
+        "saas",
+        "software as a service"
+      ],
+      "responses": [
+        "Software as a Service (SaaS) is software delivered over a network, commonly through a browser. The provider manages the underlying application infrastructure."
+      ],
+      "source": {
+        "title": "IBM: Cloud computing",
+        "url": "https://www.ibm.com/think/topics/cloud-computing"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "cybersecurity-26",
+      "topic": "cybersecurity",
+      "topic_label": "Cybersecurity",
+      "title": "Cybersecurity",
+      "keywords": [
+        "phishing",
+        "suspicious email"
+      ],
+      "responses": [
+        "Phishing is a deceptive message designed to trick someone into revealing information or opening something harmful. Verify the sender and destination before clicking, and report suspicious messages."
+      ],
+      "source": {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "cybersecurity-27",
+      "topic": "cybersecurity",
+      "topic_label": "Cybersecurity",
+      "title": "Cybersecurity",
+      "keywords": [
+        "mfa",
+        "multi factor authentication",
+        "password manager",
+        "strong password"
+      ],
+      "responses": [
+        "Use long, unique passwords for each account, store them in a reputable password manager, and enable multi-factor authentication when available."
+      ],
+      "source": {
+        "title": "NIST Cybersecurity Framework",
+        "url": "https://www.nist.gov/cyberframework"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "study_skills-28",
+      "topic": "study_skills",
+      "topic_label": "Study Skills",
+      "title": "Study Skills",
+      "keywords": [
+        "how to learn",
+        "learning roadmap",
+        "study plan",
+        "study strategy"
+      ],
+      "responses": [
+        "A practical study plan sets a small goal, schedules regular practice, and includes a project to apply each new idea. Review what you learned and adjust the next goal based on what felt difficult."
+      ],
+      "source": {
+        "title": "IBM SkillsBuild",
+        "url": "https://skillsbuild.org/"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "programming-29",
+      "topic": "programming",
+      "topic_label": "Programming Foundations",
+      "title": "Programming Foundations",
+      "keywords": [
+        "beginner roadmap",
+        "learn programming",
+        "learn to code"
+      ],
+      "responses": [
+        "Start programming with one beginner-friendly language such as Python. Learn variables, conditionals, loops, and functions, then build small projects and practice reading error messages."
+      ],
+      "source": {
+        "title": "MDN: Learn web development",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "skillsbuild-30",
+      "topic": "skillsbuild",
+      "topic_label": "IBM SkillsBuild",
+      "title": "IBM SkillsBuild",
+      "keywords": [
+        "ibm skillsbuild",
+        "skillsbuild certificate",
+        "skillsbuild courses"
+      ],
+      "responses": [
+        "IBM SkillsBuild offers learning resources, but course availability, certificates, and eligibility can change. Check the official IBM SkillsBuild website for current program details: skillsbuild.org."
+      ],
+      "source": {
+        "title": "IBM SkillsBuild",
+        "url": "https://skillsbuild.org/"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "programming-31",
+      "topic": "programming",
+      "topic_label": "Programming Foundations",
+      "title": "Programming Foundations",
+      "keywords": [
+        "code",
+        "programming",
+        "what is programming"
+      ],
+      "responses": [
+        "Programming means writing instructions that a computer can execute. Programs combine data, decisions, repetition, and reusable operations to solve problems."
+      ],
+      "source": {
+        "title": "MDN: Learn web development",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development"
+      },
+      "reviewed": "2026-10-14"
+    }
+  ],
+  "quizzes": {
+    "ai_ml": {
+      "title": "AI & machine learning",
+      "questions": [
+        {
+          "id": "ai1",
+          "prompt": "What is machine learning?",
+          "options": [
+            "A branch of AI that learns patterns from data",
+            "A computer part",
+            "A programming language"
+          ],
+          "answer": 0,
+          "explanation": "It learns patterns from examples."
+        },
+        {
+          "id": "ai2",
+          "prompt": "How should a model be evaluated?",
+          "options": [
+            "Use data it did not train on",
+            "Only reuse training examples",
+            "Skip evaluation"
+          ],
+          "answer": 0,
+          "explanation": "Separate test data helps check performance on new inputs."
+        }
+      ]
+    },
+    "python": {
+      "title": "Python",
+      "questions": [
+        {
+          "id": "py1",
+          "prompt": "Which value is a string?",
+          "options": [
+            "\"hello\"",
+            "42",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "Quoted text is a string."
+        },
+        {
+          "id": "py2",
+          "prompt": "Which keyword defines a function?",
+          "options": [
+            "def",
+            "loop",
+            "make"
+          ],
+          "answer": 0,
+          "explanation": "Python uses def to define functions."
+        }
+      ]
+    },
+    "iot": {
+      "title": "Internet of Things",
+      "questions": [
+        {
+          "id": "iot1",
+          "prompt": "What does a sensor do?",
+          "options": [
+            "Measures something in its environment",
+            "Routes all internet traffic",
+            "Stores passwords"
+          ],
+          "answer": 0,
+          "explanation": "Sensors measure conditions such as temperature or light."
+        },
+        {
+          "id": "iot2",
+          "prompt": "What lets IoT devices exchange data?",
+          "options": [
+            "A communication network",
+            "A spreadsheet formula",
+            "A keyboard shortcut"
+          ],
+          "answer": 0,
+          "explanation": "Connected devices send data over networks."
+        }
+      ]
+    },
+    "cloud": {
+      "title": "Cloud computing",
+      "questions": [
+        {
+          "id": "cl1",
+          "prompt": "What does SaaS provide?",
+          "options": [
+            "Ready-to-use software over a network",
+            "Only physical cables",
+            "A programming syntax"
+          ],
+          "answer": 0,
+          "explanation": "SaaS delivers applications managed by a provider."
+        },
+        {
+          "id": "cl2",
+          "prompt": "Which is a common cloud benefit?",
+          "options": [
+            "Flexible scaling",
+            "No security management",
+            "Guaranteed zero cost"
+          ],
+          "answer": 0,
+          "explanation": "Cloud resources can often scale with demand."
+        }
+      ]
+    },
+    "data_science": {
+      "title": "Data Science",
+      "questions": [
+        {
+          "id": "ds1",
+          "prompt": "What should a data project start with?",
+          "options": [
+            "A clear question",
+            "A random chart",
+            "Deleting unusual values"
+          ],
+          "answer": 0,
+          "explanation": "A clear question guides data collection and analysis."
+        },
+        {
+          "id": "ds2",
+          "prompt": "Why check data quality?",
+          "options": [
+            "Errors can distort results",
+            "It guarantees a correct model",
+            "It replaces analysis"
+          ],
+          "answer": 0,
+          "explanation": "Missing or inaccurate data can lead to misleading conclusions."
+        }
+      ]
+    },
+    "cybersecurity": {
+      "title": "Cybersecurity",
+      "questions": [
+        {
+          "id": "cy1",
+          "prompt": "Which is a good password practice?",
+          "options": [
+            "Use long, unique passwords",
+            "Reuse one password everywhere",
+            "Share passwords in chat"
+          ],
+          "answer": 0,
+          "explanation": "Unique passwords limit the impact of an exposed account."
+        },
+        {
+          "id": "cy2",
+          "prompt": "What is phishing?",
+          "options": [
+            "A deceptive attempt to steal information",
+            "A kind of backup",
+            "A network cable"
+          ],
+          "answer": 0,
+          "explanation": "Phishing tries to trick people into sharing information or opening harmful content."
+        }
+      ]
+    },
+    "networking": {
+      "title": "Networking",
+      "questions": [
+        {
+          "id": "net1",
+          "prompt": "What does DNS do?",
+          "options": [
+            "Maps domain names to network addresses",
+            "Encrypts every file",
+            "Runs Python code"
+          ],
+          "answer": 0,
+          "explanation": "DNS helps find the address associated with a domain name."
+        },
+        {
+          "id": "net2",
+          "prompt": "What is a router used for?",
+          "options": [
+            "Forwarding traffic between networks",
+            "Editing documents",
+            "Training AI models"
+          ],
+          "answer": 0,
+          "explanation": "Routers forward data between networks."
+        }
+      ]
+    },
+    "programming": {
+      "title": "Programming foundations",
+      "questions": [
+        {
+          "id": "pr1",
+          "prompt": "What is an algorithm?",
+          "options": [
+            "A defined set of steps to solve a problem",
+            "A monitor type",
+            "A computer brand"
+          ],
+          "answer": 0,
+          "explanation": "Algorithms are ordered instructions for solving tasks."
+        },
+        {
+          "id": "pr2",
+          "prompt": "What is a variable?",
+          "options": [
+            "A named reference to a value",
+            "A network device",
+            "A browser type"
+          ],
+          "answer": 0,
+          "explanation": "Programs use variables to refer to data."
+        }
+      ]
+    }
+  },
+  "roadmaps": [
+    {
+      "id": "digital-foundations",
+      "title": "Digital foundations",
+      "description": "Build a broad base before choosing a technology path.",
+      "steps": [
+        {
+          "id": "concepts",
+          "title": "Learn core concepts",
+          "detail": "Review files, operating systems, networks, data, and online safety."
+        },
+        {
+          "id": "web",
+          "title": "Explore the web",
+          "detail": "Try a small HTML page and change its style with CSS."
+        },
+        {
+          "id": "code",
+          "title": "Write a first program",
+          "detail": "Use variables, conditions, loops, and functions."
+        },
+        {
+          "id": "project",
+          "title": "Make a mini project",
+          "detail": "Solve a small problem and note what you learned."
+        }
+      ]
+    },
+    {
+      "id": "python-starter",
+      "title": "Python starter",
+      "description": "Go from first syntax to a useful small program.",
+      "steps": [
+        {
+          "id": "setup",
+          "title": "Run a script",
+          "detail": "Try a short program and learn to read an error."
+        },
+        {
+          "id": "basics",
+          "title": "Practice the basics",
+          "detail": "Use variables, strings, conditionals, and loops."
+        },
+        {
+          "id": "collections",
+          "title": "Organize data",
+          "detail": "Practice lists and dictionaries."
+        },
+        {
+          "id": "functions",
+          "title": "Write functions",
+          "detail": "Use parameters and return values."
+        },
+        {
+          "id": "project",
+          "title": "Build something small",
+          "detail": "Make a quiz, calculator, or study timer."
+        }
+      ]
+    },
+    {
+      "id": "ai-data",
+      "title": "AI and data essentials",
+      "description": "Learn how data supports analysis and machine learning.",
+      "steps": [
+        {
+          "id": "question",
+          "title": "Ask a data question",
+          "detail": "Choose a question you can answer with evidence."
+        },
+        {
+          "id": "clean",
+          "title": "Inspect data quality",
+          "detail": "Check missing values, formats, and unusual observations."
+        },
+        {
+          "id": "patterns",
+          "title": "Explore patterns",
+          "detail": "Use summaries and charts to understand data."
+        },
+        {
+          "id": "models",
+          "title": "Understand models",
+          "detail": "Learn training, testing, and supervised learning."
+        }
+      ]
+    },
+    {
+      "id": "cyber-safety",
+      "title": "Cybersecurity basics",
+      "description": "Practice safer habits for digital learning.",
+      "steps": [
+        {
+          "id": "accounts",
+          "title": "Secure accounts",
+          "detail": "Use unique passwords and multi-factor authentication."
+        },
+        {
+          "id": "messages",
+          "title": "Spot suspicious messages",
+          "detail": "Check sender details and links before acting."
+        },
+        {
+          "id": "updates",
+          "title": "Keep devices current",
+          "detail": "Learn why updates and backups matter."
+        },
+        {
+          "id": "privacy",
+          "title": "Review privacy choices",
+          "detail": "Consider what information each app needs."
+        }
+      ]
+    },
+    {
+      "id": "cloud-iot",
+      "title": "Cloud and connected devices",
+      "description": "See how sensors, networks, and cloud services fit together.",
+      "steps": [
+        {
+          "id": "sensors",
+          "title": "Explore sensors",
+          "detail": "Identify what a sensor measures in a familiar device."
+        },
+        {
+          "id": "network",
+          "title": "Trace the data path",
+          "detail": "Follow how device data reaches a service."
+        },
+        {
+          "id": "services",
+          "title": "Compare cloud services",
+          "detail": "Learn IaaS, PaaS, and SaaS."
+        },
+        {
+          "id": "security",
+          "title": "Review risks",
+          "detail": "Consider access, privacy, updates, and availability."
+        }
+      ]
+    }
+  ]
+}
